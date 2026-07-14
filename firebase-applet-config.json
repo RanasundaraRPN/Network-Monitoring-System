@@ -1,21 +1,10 @@
-// Import the functions you need from the SDKs you need
-import { initializeApp } from "firebase/app";
-import { getAnalytics } from "firebase/analytics";
-// TODO: Add SDKs for Firebase products that you want to use
-// https://firebase.google.com/docs/web/setup#available-libraries
-
-// Your web app's Firebase configuration
-// For Firebase JS SDK v7.20.0 and later, measurementId is optional
-const firebaseConfig = {
-  apiKey: "AIzaSyASJjNGnntqfKJ2f3LYocBvsp3_U9gbMTQ",
-  authDomain: "network-monitoring-syste-f1863.firebaseapp.com",
-  projectId: "network-monitoring-syste-f1863",
-  storageBucket: "network-monitoring-syste-f1863.firebasestorage.app",
-  messagingSenderId: "588797430165",
-  appId: "1:588797430165:web:1924aed792401ea659ce9c",
-  measurementId: "G-FG67SG4HGG"
-};
-
-// Initialize Firebase
-const app = initializeApp(firebaseConfig);
-const analytics = getAnalytics(app);
+{
+  "projectId": "network-monitoring-syste-f1863",
+  "appId": "1:588797430165:web:1924aed792401ea659ce9c",
+  "apiKey": "AIzaSyASJjNgnntqFKj2f3LyocBvsp3_U9gbMTQ",
+  "authDomain": "network-monitoring-syste-f1863.firebaseapp.com",
+  "storageBucket": "network-monitoring-syste-f1863.firebasestorage.app",
+  "messagingSenderId": "588797430165",
+  "measurementId": "G-FG67SG4HGG",
+  "oAuthClientId": ""
+}
