@@ -1,10 +1,10 @@
 {
-  "projectId": "coral-hue-x3t6m",
-  "appId": "1:212467163704:web:c806e07118fc523e63fccd",
-  "apiKey": "AIzaSyD3a2FJhxdf7LhzFMjaDIK12x-DD3C7Yjg",
-  "authDomain": "coral-hue-x3t6m.firebaseapp.com",
-  "storageBucket": "coral-hue-x3t6m.firebasestorage.app",
-  "messagingSenderId": "212467163704",
-  "measurementId": "",
+  "projectId": "network-monitoring-syste-f1863",
+  "appId": "1:588797430165:web:1924aed792401ea659ce9c",
+  "apiKey": "PASTE_EXACT_COPIED_KEY_HERE",
+  "authDomain": "network-monitoring-syste-f1863.firebaseapp.com",
+  "storageBucket": "network-monitoring-syste-f1863.firebasestorage.app",
+  "messagingSenderId": "588797430165",
+  "measurementId": "G-FG67SG4HGG",
   "oAuthClientId": ""
 }
