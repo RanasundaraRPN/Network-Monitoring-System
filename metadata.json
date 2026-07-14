@@ -1,0 +1,6 @@
+{
+  "name": "Network Monitoring Dashboard",
+  "description": "A fullstack application for monitoring network devices, servers, and websites in real-time or simulated mode, featuring detailed metrics, latency charts, and threshold alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
